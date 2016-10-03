@@ -27,7 +27,7 @@ gulp
 This will build as you make changes.
 
 ```
-npm watchdog
+npm watch
 ```
 
 
