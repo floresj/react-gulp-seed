@@ -1,6 +1,6 @@
 # react-gulp-seed
 
-Basic seed project that builds reactjs applications using grunt and webpack. Also includes sass processing. Modify to fit your needs. This
+Basic seed project that builds reactjs applications using gulp and webpack. Also includes sass processing. Modify to fit your needs. This
 project does not start up a webserver so add in your favorite server to your workflow.
 
 
